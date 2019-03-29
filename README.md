@@ -3,11 +3,12 @@ This project is part of the Data Science Formation taugh by Data Science Academy
 <br />
 This original project is posted on https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
 <br />
+The final report can be visualized on https://diegodlima.github.io/AdTracking_Fraud_Detection_with_R/
 <h3>Files Description</h3>
 - <b>.csv files:</b> contain the datasets<br />
 - <b>Fraud detect.R:</b> contain the script of the project<br />
 - <b>Fraud detect.Rmd:</b> contain the markdown script<br />
-- <b>Fraud detect.html:</b> <u>this file is the compiled report and can be visualized on </u>https://diegodlima.github.io/AdTracking_Fraud_Detection_with_R/
+- <b>index.html:</b> this file is the compiled report
 <hr />
 <h2>Description</h2>
 Fraud risk is everywhere, but for companies that advertise online, click fraud can happen at an overwhelming volume, resulting in misleading click data and wasted money. Ad channels can drive up costs by simply clicking on the ad at a large scale. With over 1 billion smart mobile devices in active use every month, China is the largest mobile market in the world and therefore suffers from huge volumes of fradulent traffic.
